@@ -15,11 +15,51 @@ To run this project, you will need the following:
 `NODE JS`
 
 
-## Commands
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://link-to-project
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+
+## sample code
+
+```javascript
+function getConsecutivePrimeSum(n) {
+    getPrime(n);
+    let consPrimeSum = getPrimeSum(primeArr.length);   
+    console.log(consPrimeSum);
+}
+```
+
+
+## Command
 
 To run each function, run this command
 
 ```bash
   node app.js
 ```
+
+
+## Screenshots
+
+Here is the result you would get below
+
+
+
+
+## 🔗 Article Link
+To get the detailed walk-through of the code challange, click on the link below
+
+[![portfolio](https://img.shields.io/badge/my_Article-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://oxpampam.hashnode.dev/technical-challenge-solution-to-consecutive-prime-sum-using-javascript)
+
 
