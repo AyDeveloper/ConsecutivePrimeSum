@@ -54,7 +54,7 @@ To run each function, run this command
 
 Here is the result you would get below
 
-
+<img width="1280" alt="res" src="https://user-images.githubusercontent.com/72970379/178456708-a045901c-4e83-4d48-a0b6-a4e709b1cb58.png">
 
 
 ## 🔗 Article Link
